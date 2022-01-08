@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xadros
+- 👋 Hi, I’m Dr.green606
 - 👀 I’m interested in Maths, IT, Financial, Sports and everything interesting
 - 🌱 I’m currently learning ccoding with Platzi
 - 💞️ I’m looking to collaborted...
