@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dr.green606
-- 👀 I’m interested in Maths, IT, Financial, Sports and everything interesting
-- 🌱 I’m currently learning ccoding with Platzi
-- 💞️ I’m looking to collaborted...
+- 👀 Interested in Maths, IT, Financial and Sports
+- 🌱 I’m currently learning coding with Platzi
+- 💞️ Looking to collaborted...
 - 📫 How to reach me dm
 
 <!---
